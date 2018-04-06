@@ -7,9 +7,11 @@ https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
 ## The source code is at:
 https://github.com/ericmaxwell2003/ticTacToe
 
-The coding example for MVC is at 'mvc' branch
-The coding example for MVP is at 'mvp' branch
-The coding example for MVVM is at 'mvvm' branch
+The coding example for MVC is at 'mvc' branch.
+
+The coding example for MVP is at 'mvp' branch.
+
+The coding example for MVVM is at 'mvvm' branch.
 
 ## MVC - Model, View, Controller
 (https://github.com/ericmaxwell2003/ticTacToe/tree/mvc)
